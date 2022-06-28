@@ -1,1 +1,3 @@
-Hello
+provider "azurerm" {
+  
+}
